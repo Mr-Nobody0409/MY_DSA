@@ -35,3 +35,11 @@ if __name__ == "__main__":
     result = two_sum(nums, target)
     print("Indices:", result)        # Output: [0, 1]
     print("Values:", [nums[i] for i in result])
+    
+# -----------OUTPUT-----------
+# Indices: [0, 1]
+# Values: [2, 7]
+    
+    
+    
+    
