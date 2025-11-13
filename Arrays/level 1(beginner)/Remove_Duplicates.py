@@ -22,3 +22,6 @@ def remove_duplicates(arr):
 
 arr = [1, 1, 2, 2, 3, 4, 4]
 print("Array without duplicates:", remove_duplicates(arr))
+
+#-----------Output-----------
+# Array without duplicates: [1, 2, 3, 4]

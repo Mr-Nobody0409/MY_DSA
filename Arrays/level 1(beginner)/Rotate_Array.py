@@ -18,3 +18,6 @@ def rotate_array(arr, k):
 arr = [1, 2, 3, 4, 5, 6, 7]
 k = 2
 print("Rotated Array:", rotate_array(arr, k))
+
+# ---------- Output -----------
+# Rotated Array: [6, 7, 1, 2, 3, 4, 5]

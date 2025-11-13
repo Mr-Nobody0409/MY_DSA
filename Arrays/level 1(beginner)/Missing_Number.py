@@ -18,3 +18,6 @@ def missing_number(arr):
 
 arr = [1, 2, 4, 5, 6]
 print("Missing number:", missing_number(arr))
+
+# ---------- Output -----------
+# Missing number: 3

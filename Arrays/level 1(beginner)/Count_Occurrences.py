@@ -21,3 +21,6 @@ def count_occurrences(arr, target):
 arr = [1, 2, 3, 2, 2, 4]
 target = 2
 print(f"{target} appears {count_occurrences(arr, target)} times")
+
+# ---------- Output -----------
+# 2 appears 3 times

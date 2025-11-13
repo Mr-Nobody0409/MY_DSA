@@ -14,7 +14,7 @@
 def find_min_max(arr):
     return min(arr), max(arr)
 
-------------- or --------------
+#------------- or --------------
 def find_min_max(arr):
     minimum = maximum = arr[0]
     for num in arr[1:]:
@@ -26,3 +26,6 @@ def find_min_max(arr):
 
 arr = [3, 1, 8, 5, 2]
 print("Min, Max:", find_min_max(arr))
+
+# ---------- Output -----------
+# Min, Max: (1, 8)

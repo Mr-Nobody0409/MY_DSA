@@ -25,3 +25,6 @@ def second_largest(arr):
 
 arr = [10, 5, 20, 8]
 print("Second Largest:", second_largest(arr))
+
+# ---------- Output -----------
+# Second Largest: 10

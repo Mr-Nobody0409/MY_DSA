@@ -19,3 +19,6 @@ def is_sorted(arr):
 
 arr = [1, 2, 3, 4, 5]
 print("Is sorted:", is_sorted(arr))
+
+# ---------- Output -----------
+# Is sorted: True

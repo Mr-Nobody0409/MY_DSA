@@ -26,3 +26,6 @@ def binary_search(arr, target):
 arr = [1, 3, 5, 7, 9]
 target = 7
 print("Index of target:", binary_search(arr, target))
+
+# ---------- Output -----------
+# Index of target: 3
